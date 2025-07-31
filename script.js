@@ -45,11 +45,11 @@ document.addEventListener('DOMContentLoaded', () => {
             types: ['psychic']
         },
         {
-            id: 151,
-            name: 'Pikachu',
-            image: 'https://www.pngwing.com/pt/free-png-bntsr'
-
-        }
+    id: 25,
+    name: 'Pikachu',
+    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png',
+    types: ['electric']
+}
     ];
 
     const createPokemonCard = (pokemon) => {
