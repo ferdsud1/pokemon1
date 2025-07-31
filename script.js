@@ -43,6 +43,12 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Mewtwo',
             image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png',
             types: ['psychic']
+        },
+        {
+            id: 151,
+            name: 'Pikachu',
+            image: 'https://www.pngwing.com/pt/free-png-bntsr'
+
         }
     ];
 
